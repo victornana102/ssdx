@@ -1,6 +1,7 @@
 name: RDP
 
-
+off:
+  workflow_dispatch:
 
 jobs:
   secure-rdp:
